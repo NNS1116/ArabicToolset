@@ -1,0 +1,13 @@
+C:\Users\nshabanah\source\repos\ArabicToolset\obj\Debug\netcoreapp3.1\ArabicToolset.AssemblyInfoInputs.cache
+C:\Users\nshabanah\source\repos\ArabicToolset\obj\Debug\netcoreapp3.1\ArabicToolset.AssemblyInfo.cs
+C:\Users\nshabanah\source\repos\ArabicToolset\obj\Debug\netcoreapp3.1\ArabicToolset.csproj.CoreCompileInputs.cache
+C:\Users\nshabanah\source\repos\ArabicToolset\bin\Debug\netcoreapp3.1\ArabicToolset.exe
+C:\Users\nshabanah\source\repos\ArabicToolset\bin\Debug\netcoreapp3.1\ArabicToolset.deps.json
+C:\Users\nshabanah\source\repos\ArabicToolset\bin\Debug\netcoreapp3.1\ArabicToolset.runtimeconfig.json
+C:\Users\nshabanah\source\repos\ArabicToolset\bin\Debug\netcoreapp3.1\ArabicToolset.runtimeconfig.dev.json
+C:\Users\nshabanah\source\repos\ArabicToolset\bin\Debug\netcoreapp3.1\ArabicToolset.dll
+C:\Users\nshabanah\source\repos\ArabicToolset\bin\Debug\netcoreapp3.1\ArabicToolset.pdb
+C:\Users\nshabanah\source\repos\ArabicToolset\obj\Debug\netcoreapp3.1\ArabicToolset.dll
+C:\Users\nshabanah\source\repos\ArabicToolset\obj\Debug\netcoreapp3.1\ArabicToolset.pdb
+C:\Users\nshabanah\source\repos\ArabicToolset\obj\Debug\netcoreapp3.1\ArabicToolset.genruntimeconfig.cache
+C:\Users\nshabanah\source\repos\ArabicToolset\obj\Debug\netcoreapp3.1\ArabicToolset.csprojAssemblyReference.cache
